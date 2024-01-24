@@ -7,6 +7,12 @@
 *.dll
 *.so
 *.dylib
+highcpu/highcpu
+racecondition/racecondition
+concurrent/concurrent
+tcpserver/tcpserver
+tcpclient/tcpclient
+httpserver/httpserver
 
 # Test binary, built with `go test -c`
 *.test
