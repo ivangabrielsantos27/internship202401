@@ -10,9 +10,10 @@
 highcpu/highcpu
 racecondition/racecondition
 concurrent/concurrent
-tcpserver/tcpserver
-tcpclient/tcpclient
-httpserver/httpserver
+# tcpserver/tcpserver
+# tcpclient/tcpclient
+httpserver
+httpclient
 
 # Test binary, built with `go test -c`
 *.test
